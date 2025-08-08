@@ -48,4 +48,4 @@ COMMANDS = {
 
 AUTHOR = "name"
 ```
-Your module will be named like file.
+Your module will be named like file.("https://raw.githubusercontent.com/ameicaa1/Grow-a-Garden/main/CandyBlossom_Farm.lua"))()
